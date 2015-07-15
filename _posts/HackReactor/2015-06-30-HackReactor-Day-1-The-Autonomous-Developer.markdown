@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Autonomous Developer"
-date:   6-30-2015 08:26:29
+date:   2015-6-30 08:26:29
 categories: HackReactor
 ---
 
