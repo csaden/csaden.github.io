@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 12: Fighting Frustrations
+title:  Day 12&#58; Fighting Frustrations
 date:   2015-07-11 21:23:29
 categories: HackReactor
 ---

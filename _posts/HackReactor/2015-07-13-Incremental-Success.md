@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 13: Incremental Success
+title:  Day 13&#58; Incremental Success
 date:   2015-07-2015 0:10:24
 categories: HackReactor
 ---

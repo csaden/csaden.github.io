@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 3: Design to the Interface
+title:  Day 3&#58; Design to the Interface
 date:   2015-07-01 23:37:43
 categories: HackReactor
 ---

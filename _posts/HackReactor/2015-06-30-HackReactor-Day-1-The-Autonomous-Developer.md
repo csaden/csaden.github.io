@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 1: The Autonomous Developer
+title:  Day 1&#58; The Autonomous Developer
 date:   2015-6-30 08:26:29
 categories: HackReactor
 ---

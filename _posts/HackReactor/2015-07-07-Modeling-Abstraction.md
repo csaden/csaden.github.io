@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 8: Modeling Abstraction
+title:  Day 8&#58; Modeling Abstraction
 date:   2015-07-07 20:54:22
 categories: HackReactor
 ---
