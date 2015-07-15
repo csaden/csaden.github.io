@@ -3,6 +3,15 @@
 
   {% include head.html %}
 
+  <h3 class="tab">
+    <a href="/" title="Home">{{ site.title }}</a>
+
+    {% for page in site.pages_list %}
+      &nbsp;&nbsp;&nbsp;
+      <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+    {% endfor %}
+  </h3>
+
   <body>
 
     {% include header.html %}
@@ -16,15 +25,6 @@
     {% include footer.html %}
 
   </body>
-
-  <h3 class="tab">
-    <a href="/" title="Home">{{ site.title }}</a>
-
-    {% for page in site.pages_list %}
-      &nbsp;&nbsp;&nbsp;
-      <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-    {% endfor %}
-  </h3>
 
 </html>
 
