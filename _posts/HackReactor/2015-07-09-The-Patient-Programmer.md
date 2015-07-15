@@ -3,6 +3,7 @@ layout: post
 title:  Day 10&#58; The Patient Programmer
 date:   2015-07-09 21:42:38
 categories: HackReactor
+comments: True
 ---
 
 ### What did you learn today?

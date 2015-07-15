@@ -3,6 +3,7 @@ layout: post
 title:  Day 3&#58; Design to the Interface
 date:   2015-07-01 23:37:43
 categories: HackReactor
+comments: True
 ---
 
 ### What did you learn today?

@@ -1,7 +1,7 @@
 # Site settings
 title: Code-Ed Thoughts
 email: csaden@gmail.com
-description: "Learn, think, code. I write about education, computer science, programming languages, and self-improvement. I'm a data science and data visualization enthusiast with a penchant for learning and problem solving."
+description: "Learn, think, code."
 baseurl: # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ChrisSaden
@@ -14,5 +14,6 @@ pages_list:
 # Build settings
 markdown: kramdown
 permalink: pretty
+pygments: true
 paginate: 10
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

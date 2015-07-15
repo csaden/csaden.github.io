@@ -3,6 +3,7 @@ layout: post
 title:  Day 9&#58; Subclasses and Growth Mindset
 date:   2015-07-08 21:04:16
 categories: HackReactor
+comments: True
 ---
 
 ### What did you learn today?
