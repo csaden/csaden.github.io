@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-07-11 14:34:55
+title:  "The Autonomous Developer"
+date:   6-30-2015 08:26:29
 categories: HackReactor
 ---
 
-These posts cover my time at HackReactor from Monday, June 29, 2015 through Saturday, September 26, 2015. Every night I reflected about my experiences and answered three questions.
+These posts cover my time at HackReactor from Monday, June 29, 2015 through Saturday, September 26, 2015. In these post I tried to capture life at HackReactor, including my attitudes about learning and coding, the broad strokes of computer science, and my ability to communicate effectively.
+
+Every night or the next morning I reflected about my experiences and answered three questions.
 
 - What did you learn today?
 - Did you learn anything new about yourself?
