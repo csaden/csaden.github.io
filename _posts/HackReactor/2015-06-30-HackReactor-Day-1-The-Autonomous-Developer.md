@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  The Autonomous Developer
+title:  Day 1: The Autonomous Developer
 date:   2015-6-30 08:26:29
 categories: HackReactor
 ---
-
-*Day 1*
 
 These posts cover my time at HackReactor from Monday, June 29, 2015 through Saturday, September 26, 2015. In these post I tried to capture life at HackReactor, including my attitudes about learning and coding, the broad strokes of computer science, and my ability to communicate effectively.
 

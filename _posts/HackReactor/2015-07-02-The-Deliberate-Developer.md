@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  The Deliberate Developer
+title:  Day 4: The Deliberate Developer
 date:   2015-07-02 22:42:33
 categories: HackReactor
 ---
-
-*Day 4*
 
 ### What did you learn today?
 

@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  The Talkative Learner
+title:  Day 2: The Talkative Learner
 date:   2015-07-01 00:35:53
 categories: HackReactor
 ---
-
-*Day 2*
 
 ### What did you learn today?
 
