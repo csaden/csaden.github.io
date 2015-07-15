@@ -2,11 +2,15 @@
 title: Code-Ed Thoughts
 email: csaden@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn, think, code. I write about education, computer science, programming languages, and self-improvement. I'm a data science and data visualization enthusiast with a penchant for learning and problem solving.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+Learn, think, code. I write about education, computer science, programming languages, and self-improvement. I'm a data science and data visualization enthusiast with a penchant for learning and problem solving.
+baseurl: # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ChrisSaden
 github_username: csaden
+pages_list:
+  About: '/about'
+  HackReactor: '/HackReactor'
+  Feed: '/atom.xml'
 
 # Build settings
 markdown: kramdown
