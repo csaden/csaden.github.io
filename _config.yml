@@ -1,5 +1,5 @@
 # Site settings
-title: Code-Ed Thoughts
+title: Coded Thoughts
 email: csaden@gmail.com
 description: "Learn, think, code."
 baseurl: # the subpath of your site, e.g. /blog/
@@ -14,6 +14,6 @@ pages:
 # Build settings
 markdown: kramdown
 permalink: pretty
-pygments: true
+highlighter: pygments
 paginate: 10
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
