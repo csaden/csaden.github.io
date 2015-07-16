@@ -13,7 +13,7 @@ pages:
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
 highlighter: pygments
 paginate: 10
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
