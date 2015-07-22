@@ -22,6 +22,11 @@ html {
   float: left;
 }
 
+blockquote {
+  overflow: auto;
+  zoom: 1;
+}
+
 .site_desc {
   margin: 0;
 }
