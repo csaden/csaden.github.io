@@ -3,7 +3,7 @@ layout: post
 title:  Day 13&#58; Incremental Success
 date:   2015-07-13 0:10:24
 categories: HackReactor
-comments: True
+comments: true
 ---
 
 ### What did you learn today?

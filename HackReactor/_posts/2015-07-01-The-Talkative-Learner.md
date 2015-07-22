@@ -3,7 +3,7 @@ layout: post
 title:  Day 2&#58; The Talkative Learner
 date:   2015-07-01 00:35:53
 categories: HackReactor
-comments: True
+comments: true
 ---
 
 ### What did you learn today?

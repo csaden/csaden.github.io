@@ -3,7 +3,7 @@ layout: post
 title:  Day 7&#58; Nth Problems
 date:   2015-07-06 22:51:31
 categories: HackReactor
-comments: True
+comments: true
 ---
 
 ### What did you learn today?

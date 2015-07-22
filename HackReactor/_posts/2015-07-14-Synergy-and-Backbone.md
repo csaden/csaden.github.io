@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Day 14&#58; Synergy and Backbone.js
-date:   2015-07-15 00:10:24
+date:   2015-07-14 23:10:24
 categories: HackReactor
-comments: True
+comments: true
 ---
 
 ### What did you learn today?
