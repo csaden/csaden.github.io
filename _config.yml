@@ -6,11 +6,16 @@ baseurl: # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ChrisSaden
 github_username: csaden
-pages_list:
-  About: '/about'
-  HackReactor: '/hackreactor'
-  Technical: '/technical'
-  Archive: '/archive'
+linkedin_username: ChrisSaden
+pages:
+ - title: About
+   url: /about
+ - title: HackReactor
+   url: /hackreactor
+ - title: Javascript
+   url: /javascript
+ - title: Archive
+   url: /archive
 
 # Build settings
 markdown: kramdown
