@@ -11,7 +11,7 @@ title: HackReactor
       {% if post.categories contains 'hackreactor' %}
         <li>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+          <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
@@ -23,3 +23,12 @@ title: HackReactor
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+<script type="text/javascript">
+    /* * * DISPLAY THE COMMENT COUNT * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//codedthoughts.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
