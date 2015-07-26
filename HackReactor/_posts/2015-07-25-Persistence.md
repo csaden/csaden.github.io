@@ -3,6 +3,7 @@ layout: post
 title:  Day 23&#58; Persistence
 date:   2015-07-25 00:35:03
 categories: HackReactor
+comments: true
 ---
 
 

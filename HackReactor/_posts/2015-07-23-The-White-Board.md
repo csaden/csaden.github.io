@@ -3,6 +3,7 @@ layout: post
 title:  Day 22&#58; The White Board
 date:   2015-07-23 21:56:41
 categories: HackReactor
+comments: true
 ---
 
 ### What did you learn today?
