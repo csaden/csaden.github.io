@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Day 27&#58; Deployment, Bookshelf, and Gruntw
+title:  Day 27&#58; Deployment, Bookshelf, and Grunt
 date:   2015-07-29 23:54:53
 categories: HackReactor
 ---
