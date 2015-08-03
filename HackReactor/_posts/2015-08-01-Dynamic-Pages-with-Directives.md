@@ -3,6 +3,7 @@ layout: post
 title:  Day 30&#58; Dynamic Pages with Directives
 date:   2015-08-01 18:47:06
 categories: HackReactor
+comments: true
 ---
 
 ### What did you learn today?

@@ -3,6 +3,7 @@ layout: post
 title:  Day 28&#58; Mongo and Mongoose
 date:   2015-07-30 22:05:05
 categories: HackReactor
+comments: true
 ---
 
 ### What did you learn today?

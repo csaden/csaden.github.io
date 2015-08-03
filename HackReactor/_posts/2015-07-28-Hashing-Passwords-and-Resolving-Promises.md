@@ -3,6 +3,7 @@ layout: post
 title:  Day 26&#58; Hashing Passwords and Resolving Promises
 date:   2015-07-28 23:33:25
 categories: HackReactor
+comments: true
 ---
 
 

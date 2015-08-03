@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Day 29&#58;
-date:   2015-07-31 18:39:29 Angular and HTML
+title:  Day 29&#58; Angular and HTML
+date:   2015-07-31 18:39:29
 categories: HackReactor
+comments: true
 ---
 
 ### What did you learn today?
