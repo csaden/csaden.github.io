@@ -1,0 +1,21 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+    <div class="site-info">
+      <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    </div>
+
+    <nav class='trigger'>
+      {% for page in site.pages %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endfor %}
+<!--       <a href="{{ site.baseurl }}/">Blog</a>
+      <a href="{{ site.baseurl }}/about">About</a> -->
+    </nav>
+
+  </div>
+
+</header>
