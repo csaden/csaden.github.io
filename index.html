@@ -10,7 +10,9 @@ layout: default
 
       <span>{{ post.date | date: "%b %-d, %Y" }}</span>
       <div class="entry">
-        {{ post.excerpt }}
+        {% if post.include_excerpt %}
+          {{ post.excerpt }}
+        {% endif %}
       </div>
 
     </article>

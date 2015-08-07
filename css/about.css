@@ -22,11 +22,45 @@ html {
   float: left;
 }
 
-blockquote {
+/*blockquote {
+  overflow: auto;
+  zoom: 1;
+}*/
+
+.site_desc {
+  margin: 0;
+}
+
+.about {
+  text-align: justify;
+}
+
+.quote-container {
+  text-align: right;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
   overflow: auto;
   zoom: 1;
 }
+.quote:before {
+  content:"\201c";
+  color: #ccc;
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
 
-.site_desc {
+.quote:after {
+  content:"\201d";
+  color: #ccc;
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-left: 0.25em;
+  vertical-align: -0.4em;
+}
+
+.quote-container p {
   margin: 0;
 }
