@@ -24,18 +24,6 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-
-twitter_username: ChrisSaden
-github_username: csaden
-linkedin_username: ChrisSaden
-pages:
- - title: About
-   url: /about
- - title: HackReactor
-   url: /hackreactor
- - title: Javascript
-   url: /javascript
-
 # Build settings
 markdown: kramdown
 permalink: none
