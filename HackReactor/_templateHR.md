@@ -3,6 +3,7 @@ layout: post
 title:  Day &#58; 
 date:   2015-07-04 20:47:19
 categories: HackReactor
+comment: true
 ---
 
 
