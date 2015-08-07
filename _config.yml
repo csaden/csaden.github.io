@@ -3,7 +3,7 @@ title: Coded Thoughts
 email: csaden@gmail.com
 description: "Learn, think, code."
 baseurl: # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "csaden.github.io" # the base hostname & protocol for your site
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -18,7 +18,7 @@ footer-links:
   instagram:
   linkedin: ChrisSaden
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: Subscribe
   twitter: ChrisSaden
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -35,8 +35,6 @@ pages:
    url: /hackreactor
  - title: Javascript
    url: /javascript
- - title: Archive
-   url: /archive
 
 # Build settings
 markdown: kramdown
