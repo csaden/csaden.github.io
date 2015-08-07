@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Day 31 &#58;
-date:   2015-08-04 09:06:32 The Sprint to Fail
+title:  Day 31 &#58; The Sprint to Fail
+date:   2015-08-04 09:06:32
 categories: HackReactor
 comment: true
 ---
