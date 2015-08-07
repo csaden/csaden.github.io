@@ -3,7 +3,28 @@ title: Coded Thoughts
 email: csaden@gmail.com
 description: "Learn, think, code."
 baseurl: # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: csaden@gmail.com
+  facebook:
+  flickr:
+  github: csaden
+  instagram:
+  linkedin: ChrisSaden
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: ChrisSaden
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+
 twitter_username: ChrisSaden
 github_username: csaden
 linkedin_username: ChrisSaden
@@ -22,4 +43,24 @@ markdown: kramdown
 permalink: none
 highlighter: pygments
 paginate: 10
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
+    - package.json
+    - grunt.js
+    - Grunfile.js
+    - node_modules
