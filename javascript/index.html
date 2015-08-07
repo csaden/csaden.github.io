@@ -1,25 +1,22 @@
 ---
-layout: default
+layout: page
 title: Javascript
-categories: javascript
 ---
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      {% if post.categories contains 'javascript' %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% if post.categories contains 'javascript' %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

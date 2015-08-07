@@ -6,4 +6,4 @@ categories: javascript
 comments: true
 ---
 
-Coming soon! This technical article will covers the `d3.data()` and an anonymous accessor function which can be passed to it as a key function for binding data to DOM elements.
+Coming soon! This technical article will cover the function, `d3.data()`, and an anonymous accessor functions which can be passed to the `d3.data` as a key function for binding data to DOM elements.
