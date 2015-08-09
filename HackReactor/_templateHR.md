@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Day &#58; 
-date:   2015-07-04 20:47:19
+title:  Day 37&#58; 
+date:   2015-08-10  
 categories: HackReactor
 comment: true
 ---
@@ -12,7 +12,6 @@ comment: true
 
 
 ### Did you learn anything new about yourself?
-
 
 
 ### Anything you want to do differently tomorrow?
