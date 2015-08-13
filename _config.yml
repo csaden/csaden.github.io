@@ -12,24 +12,24 @@ pages:
   HackReactor: '/hackreactor'
   Javascript: '/javascript'
   About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  # Archive: '/archive'
+  # Feed: '/atom.xml'
 
 # Includes an icon in the footer for each username you enter
-# footer-links:
-#   dribbble:
-#   email: csaden@gmail.com
-#   facebook:
-#   flickr:
-#   github: csaden
-#   instagram:
-#   linkedin: ChrisSaden
-#   pinterest:
-#   rss: Subscribe
-#   twitter: ChrisSaden
-#   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-#   youtube: # channel/<your_long_string> or user/<user-name>
-#   googleplus: # anything in your profile username that comes after plus.google.com/
+footer-links:
+  dribbble:
+  email: csaden@gmail.com
+  facebook:
+  flickr:
+  github: csaden
+  instagram:
+  linkedin: ChrisSaden
+  pinterest:
+  rss: Subscribe
+  twitter: ChrisSaden
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Build settings
 markdown: kramdown
