@@ -3,7 +3,7 @@ layout: post
 title:  The World's Population - Part 1
 date:   2015-08-14 10:50:00
 categories: datavis
-tags: [data]
+tags: [decoding_visualizations]
 comments: true
 ---
 
