@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Javascript
+permalink: /js/
 ---
 
 <h1 class="page-heading">Posts</h1>
@@ -9,10 +10,10 @@ title: Javascript
   {% for post in site.posts %}
     {% if post.categories contains 'javascript' %}
       <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{post.url}}"></a>
       </li>
     {% endif %}

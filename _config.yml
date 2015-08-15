@@ -9,10 +9,10 @@ url: "csaden.github.io" # the base hostname & protocol for your site
 google_analytics: UA-66092841-1
 
 pages:
-  DataVisualization: '/datavis'
-  HackReactor: '/hackreactor'
-  Javascript: '/javascript'
-  About: '/about'
+  datavis: '/datavis'
+  hackreactor: '/hackreactor'
+  javascript: '/javascript'
+  about: '/about'
   # Archive: '/archive'
   # Feed: '/atom.xml'
 
