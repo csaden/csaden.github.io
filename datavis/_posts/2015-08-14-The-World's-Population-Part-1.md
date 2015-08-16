@@ -29,7 +29,7 @@ Before I show my visualization (in the next post), I'll address the three questi
 
 ## The Question
 
-First, I thought about what question are the graphics trying to answer.
+First, I thought about the question that the graphics attempted to answer.
 
 <img src='../../assets/datavis/un_world_pop1.png' alt='Regional percent change, 2015-2050 forecast' >
 
@@ -47,7 +47,7 @@ Finally, the third graphic shows the rank (vertical position of a country) and t
 
 Next, I thought about the data that was used to generate these graphics. Overall, I'd say that the data team did a great job of pulling the data to showcase the current population in 2015 and the projected population in 2050. However, I think there were some choices in the graphics that take away from the story. For example in the second graphic, the creators of the graphic choose to include the forecast of the world's population in 2100. It's the only graphic that includes data beyond 2050. This also suggests that the creators had access to data more data and they choose not to show that data. For example, the creators might have included a second bar chart similar to the first one that shows the percent change in population from 2050-2100.
 
-I'll come back to this point later, but I'd also like to call attention to one more aspect about the DATA chosen. In the second graphic, the years are 2015, 2050, and 2100. The time intervals between the first two years is 35 years while the time interval between the last two years is 50 years. I found it odd to show these bars side by side when the time interval across the years is different. It makes the comparisons less reasonable and interprettable since I'm wondering if the change is significant. I'm wondering what's happened in the past, and I'm wondering if the there are large swings in population within each time interval. The same time problem can be found in third graphic with the years 1950, 2015, and 2050 (a 65 year interval and a 35 year interval), but I do have less questions about the data in the third graphic.
+I'll come back to this point later, but I'd also like to call attention to one more aspect about the data that was chosen to the set of graphics. In the second graphic, the years are 2015, 2050, and 2100. The time intervals between the first two years is 35 years while the time interval between the last two years is 50 years. I found it odd to show these bars side by side when the time interval across the years is different. It makes the comparisons less reasonable and interprettable. I'm wondering what's happened in the past, and I'm wondering if the there will be large swings in population within each time interval. The same time problem can be found in third graphic with the years 1950, 2015, and 2050 (a 65 year interval and a 35 year interval).
 
 ## The Visuals
 
