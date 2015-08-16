@@ -41,7 +41,7 @@ The second graphic shows the total population in 2015 and the forecasted populat
 
 <img src='../../assets/datavis/un_world_pop3.png' alt='Most populous countries, bn'>
 
-Finally, the third graphic shows the rank (vertical position of a country) and the population (length of the colored, horizontal bar) in billions of the most populous countries. The last graphic is particularly interesting since it includes data from the year 1950; this graphic shows past, present, and future data. Even with the addition of 1950 in the third graphic, I would say that overall these graphics are addressing the question "What will the world's population look like in 2050?".
+Finally, the third graphic shows the rank (vertical position of a country) and the population (length of the colored, horizontal bar) in billions of the most populous countries. The last graphic is particularly interesting since it includes data from the year 1950; this graphic shows past, present, and future data. Even with the addition of 1950 in the third graphic, I would say that overall these graphics are addressing the question "How will the world's population change from 2015 to 2050?".
 
 ## The Data
 
@@ -51,13 +51,13 @@ I'll come back to this point later, but I'd also like to call attention to one m
 
 ## The Visuals
 
-Finally, I looked at the visuals. The first graphic shows the percent change of the from 2015-2050. This addresses the question directly. I'm not a big fan of the color scheme because I think Oceania's bar is too bold and saturated compared to the other pastel colors. Here's that same graphic in black and white. Both forms of the graphic emphasize Oceania while the focus should be on Africa.
+Finally, I looked at the visuals to determine how well they answer the question "How will the world's population change from 2015 to 2050?". The first graphic shows the percent change of the from 2015-2050 so this graphic certainly addresses the question directly. In terms of the actual visuals though, I'm not a big fan of the color scheme because I think Oceania's bar is too bold and saturated compared to the other pastel colors. Here's that same graphic in black and white. Both forms of the graphic emphasize Oceania while the focus should be on Africa.
 
 <img src='../../assets/datavis/un_world_popBW.png' alt='Regional percent change, 2015-2050 forecast'>
 
-The color scheme, however, is used consistently throughout the graphic so it's easy to associate regions with particular colors.
+The color scheme, however, is used consistently throughout the graphic so it is easy to associate regions with particular colors as reader's interpret the second and third graphics.
 
-The first visual takes one snap of time by focusing on the percent change from 2015-2050. Again, I'm not sure if these changes are significant compared to what's happened in the past, but at least I'm able to compare the rates of change in population for each region. I think there is a better way to show this data, which I'll share in the next post.
+Other than the color scheme, the first visual is biased in that it only shows one slice of the data. The first visual takes one snap of time by focusing on the percent change from 2015-2050. I'm not sure if the changes are significant, and I'd like to contextualize the changes to what's happened in the past, but at least I'm able to compare the rates of change in population for each region. I think there is a better way to show this data, which I'll share in the next post.
 
 My final consideration for the visuals lies in the third graphic. I like how the countries can be traced visually as they change position. My biggest question is what were the populations of the African countries in 1950 and where would they rank. I think there's a lot of visual noise with the y-axis lines (at 0, 1, and 2), the minor dashed gridlines (especially between the horizontal bars), and the colored bars. If you're wondering how the visual noise is created, check out [1+1=3](http://meiert.com/en/blog/20070118/1-1-3-explaining-busyness-and-background-noise-on-websites/). Lighter shades of grey would reduce the visual noise, and I'd lean towards omitting the minor dashed grid lines. The last graphic does succeed by bolding the text '2050 Forecast'. The bold label reinforces the question being answered by the data and helps reader's focus on the most important data in this graphic, namely what the world population will be in 2050.
 
