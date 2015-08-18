@@ -13,13 +13,14 @@
         </svg>
       </a>
 
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+
+      <ul class="nav-list">
+        <li {% if page.url == '/javascript/' %}class="active" {% endif %}><a class='page-link' href="/javascript/">Javascript</a></li>
+        <li {% if page.url == '/datavis/' %}class="active" {% endif %}><a class='page-link' href="/datavis/">DataVis</a></li>
+        <li {% if page.url == '/hackreactor/' %}class="active" {% endif %}><a class='page-link' href="/hackreactor/">HackReactor</a></li>
+        <li {% if page.url == '/about/' %}class="active" {% endif %}><a class='page-link' href="/about/">About</a></li>
+      </ul>
+
     </nav>
 
   </div>

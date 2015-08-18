@@ -27,6 +27,22 @@
   float: right;
   line-height: 56px;
 
+  .nav-list {
+    list-style: none;
+
+    li {
+      display: inline-block;
+
+      a {
+        padding: 8px;
+      }
+    }
+
+    li.active {
+      background-color: #1A4B6B;
+    }
+  }
+
   .menu-icon {
       display: none;
   }
@@ -39,6 +55,10 @@
       &:not(:first-child) {
           margin-left: 20px;
       }
+  }
+
+  li.active a {
+    color: #fff;
   }
 
   @include media-query($on-palm) {
