@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The World's Population - Part 1
+title:  The World&rsquo;s Population - Part 1
 date:   2015-08-14 10:50:00
 categories: datavis
 tags: [checkup, styling, encodings]

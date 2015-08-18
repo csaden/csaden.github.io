@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The World's Population - Part 2
+title:  The World&rsquo;s Population - Part 2
 date:   2015-08-15 17:00:00
 categories: datavis
 tags: [remake, encodings]
