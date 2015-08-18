@@ -14,7 +14,7 @@ Some of the first graphics that I recreated came from a [Global Commuter Survey 
     <img src='../assets/datavis/ratherWork.png' style='max-width:48%'>
 </div>
 
-Both of the graphics could be improved dramatically and for two very different reasons. I think the first graphic suffers from poor styling while the second graphic could be improved by choosing a different visual encoding. The [visual encoding](https://www.udacity.com/course/viewer#!/c-ud507/l-3068848585/m-3095208720) is how a datum is represented visually be it a point in space, the length of a bar, a color, or in this case the area of a circle. I'll explain what I find troubling in each of the graphics, and then I'll present my remake at the end of this article.
+Both of the graphics could be improved dramatically and for two very different reasons. I think the first graphic suffers from poor styling while the second graphic could be improved by choosing a different visual encoding. The [visual encoding](https://www.udacity.com/course/viewer#!/c-ud507/l-3068848585/m-3095208720) is how a datum is represented visually. The visual encoding could be a point in space, the length of a bar, a color, or in the case of the second graphic the area of a circle. I'll explain what I find troubling in each of the graphics, and then I'll present my remake at the end of this article.
 
 ### Styling Choices
 
@@ -22,7 +22,7 @@ Both of the graphics could be improved dramatically and for two very different r
     <img src='../assets/datavis/commuterPainIndex.png'>
 </div>
 
-The first graphic is difficult to interpret for three reasons. First, the width of the bars are too small. It's hard to read the graphic because the thin bars cross with the black major grid lines, which creates a lot of visual noise. Secondly, the dominate color in the graphic is grey (the background color of the plots area), which puts less emphasis on the bars. The yellow bars sit in a sea of grey and don't pop out from the plot area. Finally, the bars appear off-centered from their corresponding labels, and those labels are difficult to read because they have been rotated vertically 90 degrees. Labels on the x-axis for vertical bar charts could be rotated by 45 degrees clockwise for easier reading. In general, I prefer horizontal bar charts and try to keep all of the labels oriented horizontally.
+The first graphic is difficult to interpret for three reasons. First, the width of each bar is too small. It's hard to read the graphic because the thin bars cross with the black major grid lines, which creates a lot of visual noise. Secondly, the dominate color in the graphic is grey (the background color of the plots area), which puts less emphasis on the bars. The yellow bars sit in a sea of grey and don't pop out from the plot area. Finally, the bars appear off-centered from their corresponding labels, and those labels are difficult to read because they have been rotated vertically 90 degrees. Labels on the x-axis for vertical bar charts could be rotated by 45 degrees clockwise for easier reading. In general, I prefer horizontal bar charts and try to keep all of the labels oriented horizontally.
 
 ### Visual Encodings
 
@@ -44,7 +44,7 @@ well, the area of each circle is proportional to the percentage of commuters who
     <img src='../assets/datavis/compareEncodings.svg'>
 </div>
 
-It turns out that version B is exactly double the size of version A in each of the pairings. The bar was probably the easiest to notice and that's because our eyes can easily distinguish between length when bars are align to a common baseline. The area of squares and the circles are much harder to compare to one another. If you're interested in the research behind graphical perception and bar charts are optimal for one dimensional data, check out William Cleveland and Robert McGill's paper on [Graphical Perception](https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf).
+It turns out that version B is exactly double the size of version A in each of the pairings. The bar was probably the easiest to notice and that's because our eyes can easily distinguish between length when bars are align to a common baseline. The area of squares and the circles are much harder to compare to one another. If you're interested in the research behind graphical perception and why bar charts are optimal for quanitative comparisons, check out William Cleveland and Robert McGill's paper on [Graphical Perception](https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf).
 
 ### The Remake
 
