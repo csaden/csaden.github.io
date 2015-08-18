@@ -3,7 +3,7 @@ layout: post
 title:  The World's Population - Part 1
 date:   2015-08-14 10:50:00
 categories: datavis
-tags: [decoding_visualizations]
+tags: [checkup, styling, encodings]
 comments: true
 ---
 
@@ -61,7 +61,7 @@ Other than the color scheme, the first visual is biased in that it only shows on
 
 My final consideration for the visuals lies in the third graphic. I like how the countries can be traced visually as they change position. My biggest question is what were the populations of the African countries in 1950 and where would they rank. I think there's a lot of visual noise with the y-axis lines (at 0, 1, and 2), the minor dashed gridlines (especially between the horizontal bars), and the colored bars. If you're wondering how the visual noise is created, check out [1+1=3](http://meiert.com/en/blog/20070118/1-1-3-explaining-busyness-and-background-noise-on-websites/). Lighter shades of grey would reduce the visual noise, and I'd lean towards omitting the minor dashed grid lines. The last graphic does succeed by bolding the text '2050 Forecast'. The bold label reinforces the question being answered by the data and helps reader's focus on the most important data in this graphic, namely what the world population will be in 2050.
 
-That's the breakdown of the current graphic. In my next post, I'll share a remake and the choices that I made to create it.
+That's the breakdown of the current graphic. In my next post, I'll share my remake and the design choices that I made in the creation process.
 
 
 
