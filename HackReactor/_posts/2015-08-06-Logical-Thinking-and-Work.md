@@ -3,7 +3,7 @@ layout: post
 title:  Day 34&#58; Logical Thinking and Work
 date:   2015-08-06 23:30:25
 categories: HackReactor
-comment: true
+comments: true
 ---
 
 

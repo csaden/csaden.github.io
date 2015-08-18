@@ -3,7 +3,7 @@ layout: post
 title:  Day 36&#58; The Hiring Day Assessment
 date:   2015-08-08 21:57:12
 categories: HackReactor
-comment: true
+comments: true
 ---
 
 
