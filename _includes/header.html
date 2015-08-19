@@ -13,12 +13,13 @@
         </svg>
       </a>
 
+      {% assign url_parts = page.url | split: '/' %}
 
       <ul class="nav-list">
-        <li {% if page.url == '/javascript/' %}class="active" {% endif %}><a class='page-link' href="/javascript/">Javascript</a></li>
-        <li {% if page.url == '/datavis/' %}class="active" {% endif %}><a class='page-link' href="/datavis/">DataVis</a></li>
-        <li {% if page.url == '/hackreactor/' %}class="active" {% endif %}><a class='page-link' href="/hackreactor/">HackReactor</a></li>
-        <li {% if page.url == '/about/' %}class="active" {% endif %}><a class='page-link' href="/about/">About</a></li>
+        <li {% if url_parts[1] == 'javascript' %}class="active" {% endif %}><a class='page-link' href="/javascript/">Javascript</a></li>
+        <li {% if url_parts[1] == 'datavis' %}class="active" {% endif %}><a class='page-link' href="/datavis/">DataVis</a></li>
+        <li {% if url_parts[1] == 'hackreactor' %}class="active" {% endif %}><a class='page-link' href="/hackreactor/">HackReactor</a></li>
+        <li {% if url_parts[1] == 'about' %}class="active" {% endif %}><a class='page-link' href="/about/">About</a></li>
       </ul>
 
     </nav>
