@@ -120,7 +120,7 @@ But when clicking on a post within Data Vis, I saw this...
 <hr>
 <br>
 
-I thought about the problem and then realized that I was trying to match the `page.url` rather than a portion of the url that presents the page (or section of the blog) for any web page on my site. I needed to take the entire url, split it on the forward slash, get the page.url (datavis, javascript, etc.), and then check to see if it matched one of the links. Here's that code.
+I thought about the problem and then realized that I was trying to match the `page.url` rather than one part of the url that corresponds to the page (or section of the blog) for <em>any</em> web page on my site. I needed to take the entire url, split it on the forward slash, get the page.url (datavis, javascript, etc.), and then check to see if it matched one of the links. Here's that code.
 
 {% highlight html linenos %}
   {% raw %}
