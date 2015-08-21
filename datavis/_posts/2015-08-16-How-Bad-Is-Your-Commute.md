@@ -30,21 +30,21 @@ The first graphic is difficult to interpret for three reasons. First, the width 
     <img src='../assets/datavis/ratherWork.png'>
 </div>
 
-The bubble-like chart showing the percentage of commuters who would rather be working rather than commuting is tough to digest. I call the graphic a *bubble-like* chart because the graphic only displays one value across all the cities: the percentage of commuters who would rather be commuting than working. Bubble charts typically display three data attributes for every circle or bubble. Data attributes are usually mapped to an x position, a y position, and a size for the bubble. Here's an example of a bubble chart using the mtcars data set in RStudio.
+The bubble-like chart showing the percentage of commuters who would rather be working rather than commuting is tough to digest. I call the graphic a *bubble-like* chart because the graphic only displays one value across all the cities: the percentage of commuters who would rather be commuting than working. Bubble charts typically display three data attributes for every circle or bubble. Data attributes are usually mapped to an x position, a y position, and a size for the bubble. Here's an example of a bubble chart using the `mtcars` data set in RStudio.
 
 <div style='margin-bottom: 15px; width:100%; text-align:center;'>
     <img src='../assets/datavis/bubbleChartEx.png'>
 </div>
 
-Going back to the Rather Work graphic, New Dehli certainly stands out as the largest circle in the top right, but the other circles are relatively close in size, which makes visual comparisons difficult. I found myself constantly going to the read the labels rather than scan the size of the circles. In doing so, I felt like I was reading a disorganized table of values (values not even aligned in columns) rather than a data visualization. So what's the problem here?
+Going back to the Rather Work graphic, New Delhi certainly stands out as the largest circle in the top right, but the other circles are relatively close in size, which makes visual comparisons difficult. I found myself constantly going to the read the labels rather than scan the size of the circles. In doing so, I felt like I was reading a disorganized table of values (values not even aligned in columns) rather than a data visualization. So what's the problem here?
 
-well, the area of each circle is proportional to the percentage of commuters who would rather be working. However, our eyes have difficulty perceiving differences in area. Take for example the following graphic. Which pair of shapes below do you think is twice in size as the others? Is it the green rectangular bars, the red squares, or the purple circles?
+Well, the area of each circle is proportional to the percentage of commuters who would rather be working. However, our eyes have difficulty perceiving differences in area. Take for example the following graphic. Which pair of shapes below do you think is twice in size as the others? Is it the green rectangular bars, the red squares, or the purple circles?
 
 <div style='margin-bottom: 15px; width:100%; text-align:center;'>
     <img src='../assets/datavis/compareEncodings.svg'>
 </div>
 
-It turns out that version B is exactly double the size of version A in each of the pairings. The bar was probably the easiest to notice and that's because our eyes can easily distinguish between length when bars are align to a common baseline. The area of squares and the circles are much harder to compare to one another. If you're interested in the research behind graphical perception and why bar charts are optimal for quanitative comparisons, check out William Cleveland and Robert McGill's paper on [Graphical Perception](https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf).
+It turns out that version B is exactly double the size of version A in each of the pairings. The bar was probably the easiest to notice and that's because our eyes can easily distinguish between length when bars are align to a common baseline. The area of squares and the circles are much harder to compare to one another. If you're interested in the research behind graphical perception and why bar charts are optimal for quantitative comparisons, check out William Cleveland and Robert McGill's paper on [Graphical Perception](https://www.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/readings/cleveland.pdf).
 
 ### The Remake
 
@@ -54,7 +54,7 @@ The following graphics were made in R. I made some final touch ups using Inkscap
     <img src='../assets/datavis/commuterPainIndexRemake.svg'>
 </div>
 
-Like the first original graphic, I sorted the cities by the commuter pain index. I remove a lot of the chart junk - the grey background, the major y-axis gridlines, the x-axis ticks, and the right border on the plot area. I even removed the y-axis and instead opted to put the numberical labels directly on the bars. The visualization draws the eye towards the worst cities at the top of the diagram and the less “painful” cities towards the bottom of the chart. Additionally, color serves to draw the eye to particular cities: Beijing, Mexico City, and Berlin. Color might seem like an odd addition to the bar chart since I'm not actually encoding data with the use of the orange color. Let me connect the use of color to the remake of the second graphic.
+Like the first original graphic, I sorted the cities by the commuter pain index. I remove a lot of the chart junk - the grey background, the major y-axis grid lines, the x-axis ticks, and the right border on the plot area. I even removed the y-axis and instead opted to put the numerical labels directly on the bars. The visualization draws the eye towards the worst cities at the top of the diagram and the less “painful” cities towards the bottom of the chart. Additionally, color serves to draw the eye to particular cities: Beijing, Mexico City, and Berlin. Color might seem like an odd addition to the bar chart since I'm not actually encoding data with the use of the orange color. Let me connect the use of color to the remake of the second graphic.
 
 <div style='margin-bottom: 15px; width:100%; text-align:left;'>
     <img src='../assets/datavis/ratherWorkRemake.svg'>
