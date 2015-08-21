@@ -11,7 +11,7 @@ These posts cover my time at HackReactor from Monday, June 29, 2015 through Satu
 
 Every night or the next morning I reflected about my experiences and answered three questions.
 
-- What did you learn today? (Focus on the big picture. What major themes and topics stand out about Javascript and software engineering?)
+- What did you learn today? (Focus on the big picture. What major themes and topics stand out about JavaScript and software engineering?)
 - Did you learn anything new about yourself?
 - Anything you want to do differently tomorrow?
 
