@@ -9,13 +9,13 @@ comments: true
 
 ### What did you learn today?
 
-Today, we started a new sprint on databases. I am familiar with databases since I've queried Udacity's database using MongoDB, which is a no-sql (or schema-less) database. An example of a document for a no-sql database is included below. At Udacity I investigated common incorrect responses to computer graded questions. I tried to uncover instructional design flaws and student misconceptions from that that data and then improve the curriculum or the question. The data I looked at comes in the form of a document which you can think of like any Javascript object or Python dictionary with key value pairs. The keys are called fields in MongoDB and the fields can be nested. The schema-less or unprescribed structure allows for the storage of unstructured data. Here's an example of one such document.
+Today, we started a new sprint on databases. I am familiar with databases since I've queried Udacity's database using MongoDB, which is a no-sql (or schema-less) database. An example of a document for a no-sql database is included below. At Udacity I investigated common incorrect responses to computer graded questions. I tried to uncover instructional design flaws and student misconceptions from that that data and then improve the curriculum or the question. The data I looked at comes in the form of a document which you can think of like any JavaScript object or Python dictionary with key value pairs. The keys are called fields in MongoDB and the fields can be nested. The schema-less or unprescribed structure allows for the storage of unstructured data. Here's an example of one such document.
 
 
 {% highlight javascript linenos %}
 {
   movie: 'The Matrix',
-  lead_actors: ["Keanu Reeves", "Laurence Fishborn", "Carrie-Anne Moss"]
+  lead_actors: ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
   ratings: {
     metacritic: 73,
     imdb: 8.7,
@@ -35,7 +35,7 @@ Today, we started a new sprint on databases. I am familiar with databases since 
 {% endhighlight %}
 
 
-The first hour or so of our time, however, was focused on learning SQL (structure query language) which makes use of relational tables. You can learn more about relational databases and mysql [here](http://www.sitepoint.com/getting-started-mysql/). We needed to hook up our chatterbox server to a "chat" database so that message and user data would persist for our application.
+The first hour or so of our time, however, was focused on learning SQL (structure query language) which makes use of relational tables. You can learn more about relational databases and mySQL [here](http://www.sitepoint.com/getting-started-mysql/). We needed to hook up our chatterbox server to a "chat" database so that message and user data would persist for our application.
 
 In a previous sprint, we built a chatterbox server that made use of temporary storage that reset each time the server started. This time around we were given server code, which used express.js. My pair and I stumbled our way through understanding the code we were given. It took a solid two hours or more to eventually figure out how the server made use of controllers and models to handle requests and responses for the client. We talked and discussed what we thought was happening, and then eventually code started to click as we were able to describe the desire functionality of the code we needed to write.
 

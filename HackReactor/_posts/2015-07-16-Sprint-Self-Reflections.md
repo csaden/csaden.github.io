@@ -12,7 +12,7 @@ My pair and I finished making corrections to our music player application early.
 
 I feel good about my progress in the curriculum, and I feel like I need to push myself harder on front-end work. I need to take some of these existing applications and build out more features and design them well. I feel like I barely have enough time to work on the existing toy problems, sprints, and keep up with reflecting so I need to re-allocate my time accordingly.
 
-A surprise also surfaced in my inbox later in the afternoon. I received an email from a technical mentor about my third self-assessment. The email outlined improvements I could make on that self-assessment. I completely forgot to respond to one of the prompts on algorithm time complexities. (Thanks Monday hangover!). Additionally, I omitted some critical lines of code for proper subclassing in Javascript. I revised those over the next half hour and submitted another pull request with the update. The exercise was a great reminder to review and stay focused throughout this program.
+A surprise also surfaced in my inbox later in the afternoon. I received an email from a technical mentor about my third self-assessment. The email outlined improvements I could make on that self-assessment. I completely forgot to respond to one of the prompts on algorithm time complexities. (Thanks Monday hangover!). Additionally, I omitted some critical lines of code for a proper sub-class in JavaScript. I revised those over the next half hour and submitted another pull request with the update. The exercise was a great reminder to review and stay focused throughout this program.
 
 ### Did you learn anything new about yourself?
 

@@ -8,7 +8,7 @@ comments: true
 
 ### What did you learn today?
 
-Angular! Well sort of. I knew about Angular from CodeSchool classes and from trying to incorporate it into my first javascript and visualization [project](http://databits.io/submission/edx-student-progress-dashboard). My first attempt at using Angular in a project didn't go so well, but I'm happy to report that integrating Angular was much easier this time around. By the end of the day, I had all but one of the test specs passing.
+Angular! Well sort of. I knew about Angular from CodeSchool classes and from trying to incorporate it into my first JavaScript and visualization [project](http://databits.io/submission/edx-student-progress-dashboard). My first attempt at using Angular in a project didn't go so well, but I'm happy to report that integrating Angular was much easier this time around. By the end of the day, I had all but one of the test specs passing.
 
 So what exactly is Angular? It's a delightful MVW (Model, View, Whatever) framework that extends HTML to be more dynamic with data-binding and directives.
 

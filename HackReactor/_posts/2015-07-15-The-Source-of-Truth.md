@@ -8,9 +8,9 @@ comments: true
 
 ### What did you learn today?
 
-I learned about MVC* architecture today and separation of concerns. In general, programs and smaller functions should be built in small parts. Functions should not necessarily depend on other functions. Instead, functions should have some input and produce a desired output. In Javascript and MVC frameworks, there's a lot of event driven behavior in which Views (V) take user input to trigger events. In Backbone, these events can be listened by Models (M) or Collections (C) to make changes to the underlying data (the source of truth), which in turn fire other events that the Views (V) can listen to in order to re-render themselves with the updated data changes. If this sounds confusing, it certainly is (at least at first). I'm making more sense of this each day.
+I learned about MVC* architecture today and separation of concerns. In general, programs and smaller functions should be built in small parts. Functions should not necessarily depend on other functions. Instead, functions should have some input and produce a desired output. In JavaScript and MVC frameworks, there's a lot of event driven behavior in which Views (V) take user input to trigger events. In Backbone, these events can be listened by Models (M) or Collections (C) to make changes to the underlying data (the source of truth), which in turn fire other events that the Views (V) can listen to in order to re-render themselves with the updated data changes. If this sounds confusing, it certainly is (at least at first). I'm making more sense of this each day.
 
-At the start, I mentioned MVC*. The asterisk is for the C since some frameworks make use of Controllers and lack Collections. The main features of an MVC* application are routing, data binding, templates/views, models, and data access.
+At the start, I mentioned MVC*. The asterisk is for the C since some frameworks make use of Controllers and lack Collections. The main features of an MVC* application are routing, data binding, templates, views, models, and data access.
 
 ### Did you learn anything new about yourself?
 
@@ -20,4 +20,4 @@ I appreciate MVC* frameworks and the people who designed them. Before diving int
 
 I want to continue planning and understanding existing code before tackling sprint projects. I stayed behind to make some specs pass and that time was well spent.
 
-I also want to revisit previous toy problems to refactor code and write recursive functions without subroutines.
+I also want to revisit previous toy problems to re-factor code and write recursive functions without subroutines.

@@ -13,7 +13,7 @@ I learned how to put together a full stack, including Sequelize/mySQL, Angular, 
 
 In the end, my [Writelet](https://github.com/csaden/2015-06-mvp) application came together 5 minutes after the MVP presentations started. I quickly created a prompt and logged some responses so the database would be populated for the demo. The demo took only one minute of time, and before I knew it I was back in my chair listening to the other demos: a music visualizer, a simplified Yelp, a Boggle-like word game, a memory game for remembering peoples name, and many many others.
 
-In the end, I was super impressed with all of the ideas and code that my cohort created. I'm also glad that I had the chance to go from scratch, literally zero lines of code, to a barebones client and server in under 48 hours.
+In the end, I was super impressed with all of the ideas and code that my cohort created. I'm also glad that I had the chance to go from scratch, literally zero lines of code, to a bare bones client and server in under 48 hours.
 
 ### Did you learn anything new about yourself?
 

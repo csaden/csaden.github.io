@@ -20,6 +20,6 @@ I am getting better at debugging.
 
 ### Anything you want to do differently tomorrow?
 
-I updated the n-queens and n-rook solutions and counting functions by writing a more generic `findSolutions` functions. I also updated the watchout sprint, which made use of d3.js and d3's timer functions. I finally had a breakthrough about context and `this` keyword as it relates to d3 data bounded to DOM nodes.
+I updated the n-queens and n-rook solutions and counting functions by writing a more generic `findSolutions` functions. I also updated the Watchout sprint, which made use of d3.js and d3's timer functions. I finally had a breakthrough about context and `this` keyword as it relates to d3 data bounded to DOM nodes.
 
 I've been catching up on coding tasks so now I need to catch up personal tasks. Tomorrow will be my day to relax, run errands, and exercise. I want to make sure I prioritize those items and then save an hour or two in the evening to review for Monday's self-assessment.

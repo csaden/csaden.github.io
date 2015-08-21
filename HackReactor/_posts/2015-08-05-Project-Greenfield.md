@@ -23,4 +23,4 @@ I'm surprised about how much I've learned from Design Thinking and Entrepreneurs
 
 ### Anything you want to do differently tomorrow?
 
-I want to practice touch typing with my right pinky. I know this sounds odd, but I never actually learned how to touch type. I'm pretty terrible with my right pinky, which slows me down a lot since I'm more prone to making syntax mistakes. These are generally autocorrected in Sublime Text, but I'll add this my list of self-improvement tasks.
+I want to practice touch typing with my right pinky. I know this sounds odd, but I never actually learned how to touch type. I'm pretty terrible with my right pinky, which slows me down a lot since I'm more prone to making syntax mistakes. These are generally auto-corrected in Sublime Text, but I'll add this my list of self-improvement tasks.

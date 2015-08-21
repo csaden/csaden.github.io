@@ -9,7 +9,7 @@ comments: true
 
 ### What did you learn today?
 
-I learned about asynchronous programming, Javascript's event loop, and the awesomeness of callbacks. Basically, callbacks allow asynchronous programs to run. It means "hey computer, go do this thing and when you finish do that next." The "that next" refers to the callback or the series of tasks you want to happen after the code runs from the first function that was invoked.
+I learned about asynchronous programming, JavaScript's event loop, and the awesomeness of callbacks. Basically, callbacks allow asynchronous programs to run. It means "hey computer, go do this thing and when you finish do that next." The "that next" refers to the callback or the series of tasks you want to happen after the code runs from the first function that was invoked.
 
 Outside of coding, I stayed late tonight to hear Marcus talk about careers, communication, and leadership. Many of the lessons that Marcus talked about regarding leadership and entrepreneurship I've been exposed to at my time at Udacity. I haven't lived those experiences yet so I wonder how I would respond in some of the challenging situations that he described. Those situations include...
 

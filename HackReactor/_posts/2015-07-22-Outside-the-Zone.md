@@ -26,7 +26,7 @@ https://en.wikipedia.org/wiki/Zone_of_proximal_development
 
 ### Anything you want to do differently tomorrow?
 
-I worked on my blog last night and managed to set up pages with sections for HackReactor, Javascript, and About Me. I want to write a article on D3.js to kick off my technical writing. I'm giving myself a due date of Sunday rather than tomorrow since the blog took more time to set up than I initially anticipated.
+I worked on my blog last night and managed to set up pages with sections for HackReactor, JavaScript, and About Me. I want to write a article on D3.js to kick off my technical writing. I'm giving myself a due date of Sunday rather than tomorrow since the blog took more time to set up than I initially anticipated.
 
 I want to go to bed early again tomorrow. Sleep never felt so good.
 

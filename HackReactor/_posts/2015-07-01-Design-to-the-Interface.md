@@ -8,7 +8,7 @@ comments: true
 
 ### What did you learn today?
 
-We discussed best practices and code reuse in one of today's lectures. Sometimes, I tune out because I know the material well already, but this lecture stood out to me. I know I don't fully grasp all of the ideas such as encapsulation, isolation, thin interfaces, and modules, but I know these will become increasingly important as I continue learning about Javascript and software engineering. I think these ideas will play out more when I actually design a program or work on parts of a larger system. I'm excited for those moments.
+We discussed best practices and code reuse in one of today's lectures. Sometimes, I tune out because I know the material well already, but this lecture stood out to me. I know I don't fully grasp all of the ideas such as encapsulation, isolation, thin interfaces, and modules, but I know these will become increasingly important as I continue learning about JavaScript and software engineering. I think these ideas will play out more when I actually design a program or work on parts of a larger system. I'm excited for those moments.
 
 ### Did you learn anything new about yourself?
 

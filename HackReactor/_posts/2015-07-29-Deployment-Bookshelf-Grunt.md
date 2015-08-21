@@ -24,8 +24,8 @@ I'm super excited to learn more about the field of software engineering, and I'd
 
 ### Anything you want to do differently tomorrow?
 
-I made the summer corn soup! I had a little bit of it tonight, and it tasted sensational: taragon, spinach, corn, fingerling potatoes and more! I'm definitely bringing my lunch tomorrow.
+I made the summer corn soup! I had a little bit of it tonight, and it tasted sensational: tarragon, spinach, corn, fingerling potatoes and more! I'm definitely bringing my lunch tomorrow.
 
-Oddly enough, I've also managed to find a lot of time to catch up on readings and online learnings. I caught up on my newsletters in my Udacity email account, and I managed to take Javascript Testing and Responsive Images from Udacity's Front-End Nanodegree Courses. The Responsive Images course made use of Grunt.js, which came in handy today. I'd call that "just-in-time" learning.
+Oddly enough, I've also managed to find a lot of time to catch up on readings and online learnings. I caught up on my newsletters in my Udacity email account, and I managed to take JavaScript Testing and Responsive Images from Udacity's Front-End Nanodegree Courses. The Responsive Images course made use of Grunt.js, which came in handy today. I'd call that "just-in-time" learning.
 
 To tie up loose ends on learning, I need to put some time into MIT's [Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) course, which I started before HackReactor. The course is in the middle of Kaggle competition, which I have yet to start. The competition wraps up on Sunday so I need to put in an hour or two over the next few days. Let's do it. Besides, the rest of the course covers linear and integer programming. Math!

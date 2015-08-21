@@ -8,7 +8,7 @@ comments: true
 
 ### What did you learn today?
 
-All of the tidbits that I have learned about Javascript, including the pseudoclassical inheritance pattern, the keyword "new", the keyword "this", and context, all came together today when learning about Backbone.js.
+All of the tidbits that I have learned about JavaScript, including the pseudo-classical inheritance pattern, the keyword "new", the keyword "this", and context, all came together today when learning about Backbone.js.
 
 Backbone.js is an MVC framework for separating concerns (models, collections, and views) of an application. I'm excited to tackle the next sprint with it.
 
@@ -18,7 +18,7 @@ I need to get better at thinking abstractly about my program, and I should not f
 
 ### Did you learn anything new about yourself?
 
-I learned that I need to put more energy into Javascript and coding. I spent the early part of this week working on a course that covers data analysis techniques. The course will be useful once since it covers linear optimization and integer optimization, which should be useful for toy problems during interview questions and beyond.
+I learned that I need to put more energy into JavaScript and coding. I spent the early part of this week working on a course that covers data analysis techniques. The course will be useful once since it covers linear optimization and integer optimization, which should be useful for toy problems during interview questions and beyond.
 
 ### Anything you want to do differently tomorrow?
 

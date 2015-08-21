@@ -8,9 +8,9 @@ comments: true
 
 ### What did you learn today?
 
-I learned that talking about Javascript and my code is far more useful than writing code on my own. There were times in the pre-course work where I wrote code, but I didn't fully understand what it did. I need to make sure to slow down and examine the code. I can create small examples and step through the code using debugger tools.
+I learned that talking about JavaScript and my code is far more useful than writing code on my own. There were times in the pre-course work where I wrote code, but I didn't fully understand what it did. I need to make sure to slow down and examine the code. I can create small examples and step through the code using debugger tools.
 
-I learned a lot of fundamental quirks about the Javascript language which was helpful.
+I learned a lot of fundamental quirks about the JavaScript language which was helpful.
 
 {% highlight javascript linenos %}
 NaN === NaN

@@ -23,7 +23,7 @@ var Promise = require('bluebird');
 var User = db.Model.extend({
   tableName: 'users',
   hasTimestamps: true,
-  intialize: function() {
+  initialize: function() {
     this.on('creating', this.hashPassword);
   },
   comparePasswords: function(attemptedPassword, callback) {
@@ -46,7 +46,7 @@ var User = db.Model.extend({
 module.exports = User;
 {% endhighlight %}
 
-To refactor the code that we originally wrote, I made three changes to the code. First, I created a `comparePassword` function. The function takes in the attemptedPassword from the login post request and a callback function. The attemptedPassword is passed into bcrypt's compare function as well as the user's stored password using a getter. The compare function in bcrypt returns either an error or a boolean for a match. To finish up the `comparePassword` function, I call the callback passing in the variables for the error and the boolean.
+To re-factor the code that we originally wrote, I made three changes to the code. First, I created a `comparePassword` function. The function takes in the attemptedPassword from the login post request and a callback function. The attemptedPassword is passed into bcrypt's compare function as well as the user's stored password using a getter. The compare function in bcrypt returns either an error or a boolean for a match. To finish up the `comparePassword` function, I call the callback passing in the variables for the error and the boolean.
 
 **Note this next paragraph is probably confusing. Consider it a work in progress.**
 
@@ -68,7 +68,7 @@ Here's all of that User model code if you're interested.
 
 I like figuring out how libraries, frameworks, and modules work. It's pretty frustrating at first since I don't know much about the syntax or functionality, but after trying many approaches, looking at examples, and relying on my intuition, I eventually come to understand.
 
-I learn just as much if not more by explaining refactored code in writing than I do refactoring code in code editors.
+I learn just as much if not more by explaining re-factored code in writing than I do refactoring code in code editors.
 
 ### Anything you want to do differently tomorrow?
 
