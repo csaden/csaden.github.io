@@ -8,7 +8,7 @@ comments: true
 
 This post technically isn't about JavaScript. Instead, this post centers on HTML, Liquid markup, and debugging. I've been playing with my blog's navigation and the navigation's styling over this week, and I faced a few problems that I wanted to solve.
 
-For one, the order of my navigation bar was not quite right. The 'About' section link in the navigation sat in the middle of the other categories, and I wanted the 'About' section to come last in the navigation. Another problem that I faced was that my navigation bar didn't do a good job of telling users which section of the blog they were reading. I wanted to have a highlight on the navigation that told that user their current place. Many sites make use of colored tabs or breadcrumbs so that users can quickly determine where they are within a site. Breadcrumbs are especially helpful in complex hierarchical sites like Amazon.com or Walmart.com. Here some examples of those.
+For one, the order of my navigation bar was not quite right. The 'About' section link in the navigation sat in the middle of the other categories, and I wanted the 'About' section to come last in the navigation. Another problem that I faced was that my navigation bar didn't do a good job of telling users which section of the blog they were reading. I wanted to have a highlight on the navigation that gave users an idea of where they were located in the site. Many sites make use of colored tabs or breadcrumbs so that users can quickly determine where they are within a site. Breadcrumbs are especially helpful in complex hierarchical sites like Amazon.com or Walmart.com. Here some examples of those.
 
 <div style="margin: 0 auto; text-align: center">
 <h4><strong>Tabs</strong></h4>
