@@ -12,7 +12,7 @@ For the newest sprint on chatterbox, I focused on thinking about the problem, wr
 
 ### Did you learn anything new about yourself?
 
-I had a hangover and a throbbing headache through the day. Happy Birthday to my mom and Shaun! Note to self, drink more water.
+I miss seeing friends and family. Happy Birthday to my mom and Shaun!
 
 ### Anything you want to do differently tomorrow?
 
