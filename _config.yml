@@ -35,7 +35,7 @@ footer-links:
 # Build settings
 markdown: kramdown
 permalink: none
-highlighter: pygments
+highlighter: rouge
 paginate: 10
 
 # Set the Sass partials directory, as we're using @imports
