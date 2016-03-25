@@ -95,7 +95,7 @@ So again, I have to think about where I might go to add an extension. It takes m
 
 A simple solution would be to move the "Get more extensions" link to the top of the page, perhaps placing it next to the Extensions main heading.
 
-I ended up paging down which saved some time, but I can't help but think that at least [one third](http://www.extremetech.com/internet/87484-85-of-firefox-users-use-add-ons-chrome-users-just-33) of Chrome's users have faced the same problem &emdash; it might even be a contributing factor to why only one third of Chrome users had installed at least one Chrome extension by June 2011.
+I ended up paging down which saved some time, but I can't help but think that at least [one third](http://www.extremetech.com/internet/87484-85-of-firefox-users-use-add-ons-chrome-users-just-33) of Chrome's users have faced the same problem <span>&mdash;<span> it might even be a contributing factor to why only one third of Chrome users had installed at least one Chrome extension by June 2011.
 
 1 billion people * 0.33 Chrome extension users * 3 seconds to figure out
 
