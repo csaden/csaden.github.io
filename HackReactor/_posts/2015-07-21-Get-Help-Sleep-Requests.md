@@ -2,7 +2,7 @@
 layout: post
 title:  Day 19&#58; GET, HELP, and SLEEP Requests
 date:   2015-7-21 08:59:41
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

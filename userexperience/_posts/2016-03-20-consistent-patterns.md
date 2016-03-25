@@ -8,7 +8,7 @@ comments: true
 
 Ever since making a [Product Design](https://www.udacity.com/course/product-design--ud509) course with Google, I have been fascinated with product design, user experience, and user interface design. In particular, I've started becoming more aware about how I use particular software products, the tasks and goals those products help me achieve, and where they fall short.
 
-While checking my email recently, I encountered a very small problem while using Gmail on my mobile device. I'd like to outline that problem in more detail, talk about how it might be alleviated, and highlight why it's important. As an aside, I currnetly have an iPhone5 so perhaps the experience is different on other devices.
+While checking my email recently, I encountered a very small problem while using Gmail on my mobile device. I'd like to outline that problem in more detail, talk about how it might be alleviated, and highlight why it's important. As an aside, I currently have an iPhone5 so perhaps the experience is different on other devices.
 
 # The Problem
 
@@ -18,7 +18,7 @@ I check email most mornings, and as I checked my email on Saturday morning, I ca
   <img style="width: 50%; margin-bottom: 15px" src="/assets/gmail_mid_email.jpg">
 </div>
 
-The email content has been blurred out for the sake of privary (but for the curious readers, the email contained an invitation to a Patti LuPone concert). I was midway through the email, and instantly I knew to whom I wanted to forward the email. That's when I went looking for the forward button.
+The email content has been blurred out for the sake of privacy (but for the curious readers, the email contained an invitation to a Patti LuPone concert). I was midway through the email, and instantly I knew to whom I wanted to forward the email. That's when I went looking for the forward button.
 
 There isn't a forward button or reply button in the main content section of the email (the part of the photo that is blurred out). And unlike Google Maps or Gmail on Android, there's no [floating action button](https://www.google.com/design/spec/components/buttons-floating-action-button.html#buttons-floating-action-button-floating-action-button) that's "sticky" and always present on the screen in some form.
 
@@ -58,7 +58,7 @@ I take my chances and tap the backwards arrow, and then I see this menu.
   <img style="width: 50%; margin-bottom: 15px" src="/assets/gmail_reply_options.jpg">
 </div>
 
-Phew ok, I can actually forward this email. Task complete!
+Phew, I can actually forward this email. Task complete!
 
 The problem with that last step, however, is that the single reply arrow breaks my mental model of icons. I typically think one icon equals one action. A trash icon deletes an email. A downward chevron (arrow) shows me more menu options. But the reply button, let's me reply, reply all (in some cases), forward, or cancel.
 
@@ -69,7 +69,7 @@ Now in all fairness, I spent about 10 seconds trying to figure out how to forwar
 </div>
 
 # The Solution
-The solution seems fairly simple to me. I'd probably duplicate some of the main email actions in the dropdown of actions after clicking the down chevron. This menu is available throughout the entire time while reading the email, which gives the user more control and avoids what might be rare or edge cases like mine. Another option would be to use a label on the reply button at the top of the email and also add an option to forward with a label. There's enough screen real estate at the top of the email to permit the additions.
+The solution seems fairly simple to me. I'd probably duplicate some of the main email actions in the drop down of actions after clicking the down chevron. This menu is available throughout the entire time while reading the email, which gives the user more control and avoids what might be rare or edge cases like mine. Another option would be to use a label on the reply button at the top of the email and also add an option to forward with a label. There's enough screen real estate at the top of the email to permit the additions.
 
 # Why It Matters
 Making a great product that helps users should be a desirable goal for any business hoping to attract and retain its users. And with over [1 billion people](http://venturebeat.com/2015/05/28/google-chrome-now-has-over-1-billion-users/) on the planet using Google Chrome and Gmail, it's even more important that these products work according to user's mental models so that people can save time and just "get things done".
@@ -93,9 +93,9 @@ So again, I have to think about where I might go to add an extension. It takes m
   <img style="margin-bottom: 15px" src="/assets/chrome_extension_add.png">
 </div>
 
-Again, probbably better to add this to the top of the page's main navigation or calls to action.
+A simple solution would be to move the "Get more extensions" link to the top of the page, perhaps placing it next to the Extensions main heading.
 
-I ended up paging down which saved some time, but I can't help but think that [one third](http://www.extremetech.com/internet/87484-85-of-firefox-users-use-add-ons-chrome-users-just-33) Chrome's users have faced the same problem.
+I ended up paging down which saved some time, but I can't help but think that at least [one third](http://www.extremetech.com/internet/87484-85-of-firefox-users-use-add-ons-chrome-users-just-33) of Chrome's users have faced the same problem &emdash; it might even be a contributing factor to why only one third of Chrome users had installed at least one Chrome extension by June 2011.
 
 1 billion people * 0.33 Chrome extension users * 3 seconds to figure out
 
@@ -109,4 +109,4 @@ OR
 
 about 11,458 days of time spent discovering navigation for a task
 
-That's alarming! Now, I'm not trying to say that this product is wasting time because it certainly helps users (myself included) a lot more than it doesn't. If anything, I think it's a great reminder of how much care, planning, and testing goes into products like Google Chrome and Gmail. It's also a reminder how important users are to the development of software products and what else might be lurking or hidden in their experiences.
+That's alarming! Now, I'm not trying to say that these products are terrible because they certainly helps users (myself included) a lot more than they doesn't. If anything, I think it's a great reminder of how much care, planning, and testing goes into product development. It's also a reminder how important users are to the development of software products and what else might be lurking or hidden in their experiences.

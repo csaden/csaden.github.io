@@ -2,7 +2,7 @@
 layout: post
 title:  Day 29&#58; Angular and HTML
 date:   2015-07-31 18:39:29
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

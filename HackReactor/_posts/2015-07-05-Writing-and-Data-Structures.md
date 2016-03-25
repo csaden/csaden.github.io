@@ -2,7 +2,7 @@
 layout: post
 title:  Day 6&#58; Writing and Data Structures
 date:   2015-07-05 20:01:53
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

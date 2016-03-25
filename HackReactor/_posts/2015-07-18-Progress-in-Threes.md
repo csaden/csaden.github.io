@@ -2,7 +2,7 @@
 layout: post
 title:  Day 18&#58; Progress in Threes (CSS3, D3, and Me)
 date:   2015-7-18 20:48:24
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

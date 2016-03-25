@@ -2,7 +2,7 @@
 layout: post
 title:  Day 16&#58; Sprint Self-Reflections
 date:   2015-7-16 21:49:54
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

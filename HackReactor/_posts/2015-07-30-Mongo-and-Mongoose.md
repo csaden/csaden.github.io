@@ -2,13 +2,13 @@
 layout: post
 title:  Day 28&#58; Mongo and Mongoose
 date:   2015-07-30 22:05:05
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 
 ### What did you learn today?
 
-Deployment sucks. Ok, it's not bad, but those were the words we first heard in lecture when starting the Shortly-Deploy sprint. We needed to deploy our app using Microsoft Azure, and I couldn't not help but think that deployment would be painful. As it turns out, most of the time I was running a bunch of commands in the terminal to set up a server in the cloud that would run my code as clients fired off HTTP get and post requests. I could see somewhat into how that black box was running by looking at the log tail of Azure when running the website. Unfortunately after the sprint, I feel like I have many holes in what industry staging and production looks like in practice.
+Deployment sucks. Okay, it's not bad, but those were the words we first heard in lecture when starting the Shortly-Deploy sprint. We needed to deploy our app using Microsoft Azure, and I couldn't not help but think that deployment would be painful. As it turns out, most of the time I was running a bunch of commands in the terminal to set up a server in the cloud that would run my code as clients fired off HTTP get and post requests. I could see somewhat into how that black box was running by looking at the log tail of Azure when running the website. Unfortunately after the sprint, I feel like I have many holes in what industry staging and production looks like in practice.
 
 In terms of more in-depth learnings, I learned about MongoDB and Mongoose, a JavaScript ORM for MongoDB. Truth be told, I already had a solid understanding of MongoDB from working at Udacity and from taking [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about), one of MongoDB's courses. Mongoose, on the other hand, was entirely new. It was easy enough to learn, and while it's syntax differs slightly from Bookshelf, the concepts underlying Mongoose match perfectly with those of Bookshelf. I'm spending the rest of the night refactoring the Mongoose implementation to be sure that I have the nuts and bolts committed to memory.
 

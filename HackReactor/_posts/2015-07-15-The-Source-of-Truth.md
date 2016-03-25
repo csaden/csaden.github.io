@@ -2,7 +2,7 @@
 layout: post
 title:  Day 15&#58; The Source of Truth
 date:   2015-7-15 21:32:07
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

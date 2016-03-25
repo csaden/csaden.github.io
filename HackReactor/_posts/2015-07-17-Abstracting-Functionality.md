@@ -2,7 +2,7 @@
 layout: post
 title:  Day 17&#58; Abstracting Functionality
 date:   2015-7-17 23:06:31
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  Day 25&#58; User Sessions
 date:   2015-07-27 23:53:54
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

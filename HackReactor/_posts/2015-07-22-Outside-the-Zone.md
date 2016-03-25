@@ -2,7 +2,7 @@
 layout: post
 title:  Day 20&#58; Outside the Zone
 date:   2015-07-22 10:11:06
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

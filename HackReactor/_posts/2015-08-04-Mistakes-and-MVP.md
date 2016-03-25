@@ -2,7 +2,7 @@
 layout: post
 title:  Day 32&#58; Mistakes and MVP
 date:   2015-08-04 20:29:22
-categories: HackReactor
+categories: hackreactor
 comments: true
 ---
 

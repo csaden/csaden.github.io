@@ -53,7 +53,7 @@ The second line chart in particular shows the regional composition of the world 
 
 My first two line graphs replace both of the bar charts and showcase the relationship between absolute population changes and percent composition of world's population in greater detail.
 
-The original version of my first line chart, however, did contain some additional data that I omitted. 
+The original version of my first line chart, however, did contain some additional data that I omitted.
 
 <a href='../../assets/datavis/UNPop1ALine.svg'><img src='../../assets/datavis/UNPop1ALine.svg'></a>
 
