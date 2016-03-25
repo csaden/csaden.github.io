@@ -93,9 +93,9 @@ So again, I have to think about where I might go to add an extension. It takes m
   <img style="margin-bottom: 15px" src="/assets/chrome_extension_add.png">
 </div>
 
-A simple solution would be to move the "Get more extensions" link to the top of the page, perhaps placing it next to the Extensions main heading.
+A simple solution would be to move the "Get more extensions" link to the top of the page, perhaps placing it next to the Extensions main heading. The user interface design doesn't necessarily break a user's mental model for what particular icons and buttons do. Instead, I think the placement of the link deviates from users would expect to find the link.
 
-I ended up paging down which saved some time, but I can't help but think that at least [one third](http://www.extremetech.com/internet/87484-85-of-firefox-users-use-add-ons-chrome-users-just-33) of Chrome's users have faced the same problem <span>&mdash;<span> it might even be a contributing factor to why only one third of Chrome users had installed at least one Chrome extension by June 2011.
+  I ended up paging down which saved some time, but I can't help but think that at least [one third](http://www.extremetech.com/internet/87484-85-of-firefox-users-use-add-ons-chrome-users-just-33) of Chrome's users have faced the same problem <span>&mdash;</span> it might even be a contributing factor to why only one third of Chrome users had installed at least one Chrome extension by June 2011.
 
 1 billion people * 0.33 Chrome extension users * 3 seconds to figure out
 
@@ -109,4 +109,4 @@ OR
 
 about 11,458 days of time spent discovering navigation for a task
 
-That's alarming! Now, I'm not trying to say that these products are terrible because they certainly helps users (myself included) a lot more than they doesn't. If anything, I think it's a great reminder of how much care, planning, and testing goes into product development. It's also a reminder how important users are to the development of software products and what else might be lurking or hidden in their experiences.
+That's alarming! Now, I'm not trying to say that these products are terrible because they certainly help users (myself included). If anything, I think it's a great reminder of how much care, planning, and testing goes into product development. It's also a reminder of how important users are to the development of software products and what else might be lurking or hidden in their experiences.
