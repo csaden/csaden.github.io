@@ -41,7 +41,7 @@ I clicked on the down arrow and encountered the following screen.
   <img style="width: 50%; margin-bottom: 15px" src="/assets/gmail_menu_options.jpg">
 </div>
 
-This seems reasonable. I can move an email, label it, or even mark it as unread. I'm not quite sure why I would need to mute an email, but maybe there's something I can do about muting emails from a sender? ¯\\\_(ツ)\\_/¯ The most surprising thing about this screen was that I don't have an option to reply or forward an email. I thought this menu would contain the main actions that I could take with an email, but instead, the menu comprises a list of what I would call secondary actions, with the exception of "Mark as Spam".
+This seems reasonable. I can move an email, label it, or even mark it as unread. I'm not quite sure why I would need to mute an email, but maybe there's something I can do about muting emails from a sender? ¯\\\_(ツ)_/¯ The most surprising thing about this screen was that I don't have an option to reply or forward an email. I thought this menu would contain the main actions that I could take with an email, but instead, the menu comprises a list of what I would call secondary actions, with the exception of "Mark as Spam".
 
 Now, here's where I get a little confused as a user. I know the forward button must be around here somewhere so I look harder. I scroll back to the top of the menu and I see this.
 
